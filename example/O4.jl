@@ -1,5 +1,5 @@
 using FRGDynamicModels
-using Plots
+# using Plots
 
 sol_lpap0 = solver_modelA(;Λ=430.0, kIR=1.0, n=4.0, Tem=141.633955
 )

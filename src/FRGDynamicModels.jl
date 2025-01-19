@@ -7,4 +7,5 @@ using Plots
 include("flow.jl")
 include("solver.jl")
 export solver_modelA
+export plot
 end
