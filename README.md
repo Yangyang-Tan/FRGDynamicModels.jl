@@ -19,3 +19,18 @@ using FRGDynamicModels
 sol_lpap0 = solver_modelA(;Λ=430.0, kIR=1.0, n=4.0, Tem=141.633955
 )
 ```
+
+
+### Citation
+If you use this package in your research, please cite [this paper](https://arxiv.org/abs/2403.03503):
+```bib
+@article{Tan:2024fuq,
+    author = "Tan, Yang-yang and Chen, Yong-rui and Fu, Wei-jie and Li, Wei-Jia",
+    title = "{Universality of pseudo-Goldstone damping near critical points}",
+    eprint = "2403.03503",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    month = "3",
+    year = "2024"
+}
+```
